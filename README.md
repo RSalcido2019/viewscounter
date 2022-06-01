@@ -1,8 +1,6 @@
-## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+
 **GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
-
-The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
 <table>
 	<tr>
@@ -135,10 +133,10 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 
 <small><i>Last updated on 2022/6/1 4:52 PM UTC</i></small>
 
-## ✂️Copy and 📋 Paste
 ### Total Views Badge
 [![Image of https://github.com/RSalcido2019/viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/RSalcido2019/viewscounter)
 
+<!--
 ```readme
 [![Image of https://github.com/RSalcido2019/viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/RSalcido2019/viewscounter)
 ```

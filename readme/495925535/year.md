@@ -154,13 +154,16 @@
 
 </details>
 <small><i>Last updated on 2022/6/1 4:52 PM UTC</i></small>
+<!--
 
-## ✂️Copy and 📋 Paste
 ### SVG Badge
+
 [![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/495925535/badge.svg)](https://github.com/RSalcido2019/viewscounter/blob/master/readme/495925535/week.md)
+
 ```readme
 [![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/495925535/badge.svg)](https://github.com/RSalcido2019/viewscounter/blob/master/readme/495925535/week.md)
 ```
+
 ### Header
 # RSalcido2019 [<img alt="Image of viewscounter" src="https://github.com/RSalcido2019/viewscounter/blob/master/graph/495925535/small/year.png" height="20">](https://github.com/RSalcido2019/viewscounter/blob/master/readme/495925535/year.md)
 ```readme

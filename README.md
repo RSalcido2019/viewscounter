@@ -1,6 +1,8 @@
-
+## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
 **GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
+
+The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
 <table>
 	<tr>
@@ -115,6 +117,86 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/RSalcido2019/viewscounter/tree/master/readme/464302186/year.md">
+				Python101
+			</a>
+		</td>
+		<td>
+			2022/5/29 6:11 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/RSalcido2019/viewscounter/raw/master/graph/464302186/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/RSalcido2019/viewscounter/tree/master/readme/440320865/year.md">
+				real-estate
+			</a>
+		</td>
+		<td>
+			2022/5/29 6:12 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/RSalcido2019/viewscounter/raw/master/graph/440320865/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/RSalcido2019/viewscounter/tree/master/readme/471124606/year.md">
+				Binary-Searh-Tree
+			</a>
+		</td>
+		<td>
+			2022/5/29 6:12 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/RSalcido2019/viewscounter/raw/master/graph/471124606/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/RSalcido2019/viewscounter/tree/master/readme/490430903/year.md">
+				Multiverse-Portfolio
+			</a>
+		</td>
+		<td>
+			2022/5/29 6:12 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/RSalcido2019/viewscounter/raw/master/graph/490430903/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/RSalcido2019/viewscounter/tree/master/readme/498726640/year.md">
+				viewscounter
+			</a>
+		</td>
+		<td>
+			2022/5/29 6:12 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/RSalcido2019/viewscounter/raw/master/graph/498726640/small/year.png" height="20"> 115
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/RSalcido2019/viewscounter/tree/master/readme/495925535/year.md">
 				RSalcido2019
 			</a>
@@ -131,12 +213,12 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/6/1 4:52 PM UTC</i></small>
+<small><i>Last updated on 2022/6/1 6:12 PM UTC</i></small>
 
+## ✂️Copy and 📋 Paste
 ### Total Views Badge
 [![Image of https://github.com/RSalcido2019/viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/RSalcido2019/viewscounter)
 
-<!--
 ```readme
 [![Image of https://github.com/RSalcido2019/viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/profile/badge.svg)](https://github.com/RSalcido2019/viewscounter)
 ```

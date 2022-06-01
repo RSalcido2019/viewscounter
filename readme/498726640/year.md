@@ -1,7 +1,7 @@
 ## [🔙 viewscounter](https://github.com/RSalcido2019/viewscounter)
 
-### :octocat: [Flashback](https://github.com/RSalcido2019/Flashback)
-![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/graph/219424969/large/year.png)
+### :octocat: [viewscounter](https://github.com/RSalcido2019/viewscounter)
+![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/graph/498726640/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -153,18 +153,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/6/1 6:11 PM UTC</i></small>
+<small><i>Last updated on 2022/6/1 6:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/219424969/badge.svg)](https://github.com/RSalcido2019/viewscounter/blob/master/readme/219424969/week.md)
+[![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/498726640/badge.svg)](https://github.com/RSalcido2019/viewscounter/blob/master/readme/498726640/week.md)
 ```readme
-[![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/219424969/badge.svg)](https://github.com/RSalcido2019/viewscounter/blob/master/readme/219424969/week.md)
+[![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/498726640/badge.svg)](https://github.com/RSalcido2019/viewscounter/blob/master/readme/498726640/week.md)
 ```
 ### Header
-# Flashback [<img alt="Image of viewscounter" src="https://github.com/RSalcido2019/viewscounter/blob/master/graph/219424969/small/year.png" height="20">](https://github.com/RSalcido2019/viewscounter/blob/master/readme/219424969/year.md)
+# viewscounter [<img alt="Image of viewscounter" src="https://github.com/RSalcido2019/viewscounter/blob/master/graph/498726640/small/year.png" height="20">](https://github.com/RSalcido2019/viewscounter/blob/master/readme/498726640/year.md)
 ```readme
-# Flashback [<img alt="Image of viewscounter" src="https://github.com/RSalcido2019/viewscounter/blob/master/graph/219424969/small/year.png" height="20">](https://github.com/RSalcido2019/viewscounter/blob/master/readme/219424969/year.md)
+# viewscounter [<img alt="Image of viewscounter" src="https://github.com/RSalcido2019/viewscounter/blob/master/graph/498726640/small/year.png" height="20">](https://github.com/RSalcido2019/viewscounter/blob/master/readme/498726640/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

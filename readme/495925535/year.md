@@ -155,6 +155,7 @@
 </details>
 <small><i>Last updated on 2022/6/1 4:30 PM UTC</i></small>
 
+<!--
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
 [![Image of viewscounter](https://github.com/RSalcido2019/viewscounter/blob/master/svg/495925535/badge.svg)](https://github.com/RSalcido2019/viewscounter/blob/master/readme/495925535/week.md)

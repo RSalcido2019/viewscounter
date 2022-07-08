@@ -21,22 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/RSalcido2019/viewscounter/tree/master/readme/436220390/year.md">
-				ToodleDo
-			</a>
-		</td>
-		<td>
-			2022/7/6 12:38 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/RSalcido2019/viewscounter/raw/master/graph/436220390/small/year.png" height="20"> 15
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/RSalcido2019/viewscounter/tree/master/readme/219424969/year.md">
 				Flashback
 			</a>
@@ -213,7 +197,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/7/8 12:14 PM UTC</i></small>
+<small><i>Last updated on 2022/7/8 6:08 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
